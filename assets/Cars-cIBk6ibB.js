@@ -1,0 +1,1 @@
+import{N as s,P as r,b as o,c as u,d as e,L as n,x as c,F as l}from"./index-DsbhA8Qx.js";const _={__name:"Cars",setup(i){const a=s().params.marca;return a==null&&r(),(p,t)=>(o(),u(l,null,[e("div",null,[e("button",{onClick:t[0]||(t[0]=d=>n(r)())}," BACK ")]),e("h3",null,c(n(a)),1)],64))}};export{_ as default};

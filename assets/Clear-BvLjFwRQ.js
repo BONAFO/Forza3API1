@@ -1,0 +1,1 @@
+import{S as t}from"./store.manager-BdJmXoF6.js";import{o,c as a}from"./index-CfCyW646.js";const _={__name:"Clear",setup(r){const e=()=>{window.confirm("Delete all data?")&&localStorage.removeItem(t.get("API_NAME"))};return(c,l)=>(o(),a("button",{onClick:e},"DELETE"))}};export{_ as default};

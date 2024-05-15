@@ -1,0 +1,1 @@
+import{S as t}from"./store.manager-DXkBNABf.js";import{R as o,o as a,c}from"./index-DD2YO3cD.js";const r={__name:"Clear",setup(n){const e=()=>{window.confirm("Delete all data?")&&localStorage.removeItem(t.get("API_NAME"))};return(l,s)=>(a(),c("button",{id:"delete_btn",class:"btn btn-danger",onClick:e}," DELETE "))}},f=o(r,[["__scopeId","data-v-ffbf566d"]]);export{f as default};
